@@ -1,1 +1,32 @@
 /* write your override styles here */
+#wall .tag-1 #tag-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 980px;
+  height: 622px;
+}
+
+.slick_wicked #tag-3{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 980px;
+  height: 622px;
+}
+
+.parent #tag-4, #tag-6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 980px;
+  height: 622px;
+}
+
+.slick #tag-5, #tag-7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 980px;
+  height: 622px;
+}
